@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 research/test_repo/*
 research/data/*
+db
